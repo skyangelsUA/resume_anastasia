@@ -1,0 +1,152 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #f5f7fa;
+}
+
+.main-conteiner {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+}
+
+.main-content-section {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+.about-me-profession {
+  font-size: 14px;
+  font-weight: 700;
+  color: #000;
+}
+
+.my-projects-section-link {
+  padding-left: 17px;
+}
+
+.my-projects-section-link1 {
+  font-weight: normal;
+  color: #595959;
+}
+
+.my-projects-section-dot {
+  font-weight: normal;
+}
+
+.my-projects-section-item {
+  font-weight: bold;
+}
+
+.my-projects-section-text {
+  color: #000;
+  font-weight: normal;
+}
+
+.about-me-profession-text {
+  color: #595959;
+  width: 400px;
+  height: 150px;
+  left: 500px;
+  top: 250px;
+  line-height: 25px;
+}
+
+.my-work-experience-text {
+  color: #fb6d3a;
+}
+.my-work-experience-list {
+  padding: 0 0 0 17px;
+  line-height: 25px;
+}
+
+.my-work-experience-text1 {
+  color: #595959;
+}
+
+.years-text {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+/*sidebar section */
+
+.sidebar-sections {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0px;
+}
+
+.size-photo {
+  height: 555px;
+}
+
+.contacts-section {
+  margin: 50px 0 0 40px;
+}
+
+.tech-skill-sections {
+  margin: 50px 0 0 40px;
+}
+
+.soft-skill-sections {
+  margin: 50px 0 0 40px;
+}
+
+.sidebar-title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #fff;
+  margin-bottom: 10px;
+  line-height: 35px;
+}
+
+/*Contacts section */
+
+.contacts-section-type {
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 10px;
+}
+
+.contacts-section-link {
+  color: #dcebea;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.skills-list {
+  padding: 0 0 0 17px;
+  line-height: 24px;
+}
+
+.skill-item {
+  color: #fb6d3a;
+}
+
+.skills-list-text {
+  color: #fff;
+}
+
+.my-projects-section-item {
+  font-weight: bold;
+}
+
+.my-projects-section-text {
+  color: #000;
+  font-weight: normal;
+}
+
+.my-projects-section-numbers {
+  font-weight: bold;
+}
